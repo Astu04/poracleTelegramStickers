@@ -5,4 +5,5 @@ This consists of:
 3. https://github.com/nileplumb/PkmnShuffleMap
 
 In that order of priority. This are webp intented to use with Poracle. Don't count on this being up to date. 
+
 In .env -> TLG_STICKER="https://raw.githubusercontent.com/Astu04/poracleTelegramStickers/master/pmsf/"
